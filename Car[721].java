@@ -40,7 +40,7 @@ public class Car {
 	}
 
 	public void setSnelheid(short snelheid) {
-		this.snelheid = supersnel;
+		this.snelheid = kneitersnel;
 	}
 }
 
